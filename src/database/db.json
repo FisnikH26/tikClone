@@ -1,0 +1,355 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Homer",
+      "username": "homer",
+      "email": "homer@simpsons.com",
+      "password": "homer",
+      "follower_count": 0,
+      "following_count": 3,
+      "profile_img": "https://imgs.search.brave.com/yw_hQMJOv8ZHKWx47yJMglVUgs_vAKsRiYBT79Zu7x4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FiLzdl/LzRiL2FiN2U0YmU3/ZGZmYmI3ZGYwMzA2/NjJiMjZlOWMwZjUx/LmpwZw",
+      "bio": "Wow I made a Tiktok Clone... well Kind of"
+    },
+    {
+      "id": "2",
+      "name": "Margee",
+      "username": "Margee",
+      "email": "margee@simpsons.com",
+      "password": "margee",
+      "follower_count": 0,
+      "following_count": 1,
+      "profile_img": "https://imgs.search.brave.com/CXOiwyHA7_BXzWhvvWAwBL-189DECEuEjrZdT64DDjY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5keTEwMC5jb20v/bWVkaWEtbGlicmFy/eS9tYXJnZS1zaW1w/c29uLWNhbGxzLW91/dC1kaXNyZXNwZWN0/ZnVsLW5hbWUtY2Fs/bGluZy5qcGc_aWQ9/NTA3Mzk0NTgmd2lk/dGg9MTI0NSZoZWln/aHQ9NzAwJnF1YWxp/dHk9ODUmY29vcmRp/bmF0ZXM9MCwwLDAs/MA"
+    },
+    {
+      "id": "3",
+      "name": "Bart",
+      "username": "Bart",
+      "email": "bart@simpsons.com",
+      "password": "bart",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/-E0OjC-UjPP8fLFSsTjFBkgd7JBVDafh7lYU-l5ajKA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDM2MTI5/MDIuanBn"
+    },
+    {
+      "id": "4",
+      "name": "Lisa",
+      "username": "lisa_S",
+      "email": "lisa@simpsons.com",
+      "password": "lisa",
+      "profile_img": "https://imgs.search.brave.com/3v-CffwIz__2GEkv4hQcMYVoSNWz4-rStXyvdOaR5Nc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2Y5/NjYyNzZiLWNmOTMt/NDJmMy1iMjlmLTlk/ZDYzNWYxMzlmYi9k/OTBrM2U2LTZjZGU0/N2VhLTViNTctNDIz/My1hNzA4LTYzOWE0/YTkzMGEyOC5qcGcv/djEvZml0L3dfMzAw/LGhfOTAwLHFfNzAs/c3RycC9saXNhX3Np/bXBzb25fYnlfam9y/ZGFuc3RhY3lfZDkw/azNlNi0zMDB3Lmpw/Zz90b2tlbj1leUow/ZVhBaU9pSktWMVFp/TENKaGJHY2lPaUpJ/VXpJMU5pSjkuZXlK/emRXSWlPaUoxY200/NllYQndPamRsTUdR/eE9EZzVPREl5TmpR/ek56TmhOV1l3WkRR/eE5XVmhNR1F5Tm1V/d0lpd2lhWE56SWpv/aWRYSnVPbUZ3Y0Rv/M1pUQmtNVGc0T1Rn/eU1qWTBNemN6WVRW/bU1HUTBNVFZsWVRC/a01qWmxNQ0lzSW05/aWFpSTZXMXQ3SW1o/bGFXZG9kQ0k2SWp3/OU1UQTJNQ0lzSW5C/aGRHZ2lPaUpjTDJa/Y0wyWTVOall5Tnpa/aUxXTm1PVE10TkRK/bU15MWlNamxtTFRs/a1pEWXpOV1l4TXps/bVlsd3ZaRGt3YXpO/bE5pMDJZMlJsTkRk/bFlTMDFZalUzTFRR/eU16TXRZVGN3T0Mw/Mk16bGhOR0U1TXpC/aE1qZ3VhbkJuSWl3/aWQybGtkR2dpT2lJ/OFBURXhNalVpZlYx/ZExDSmhkV1FpT2xz/aWRYSnVPbk5sY25a/cFkyVTZhVzFoWjJV/dWIzQmxjbUYwYVc5/dWN5SmRmUS5vbldv/NGlCREpCM1NxODFE/UVc2NldheVlCWi1q/WU5nZjlNandvbEI3/ZTFF"
+    },
+    {
+      "id": "5",
+      "name": "Peter",
+      "username": "Griffin-Peter",
+      "email": "peter@familyguy.com",
+      "password": "peter",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/e458P6sQ_HjJPphx0Apbmj2DPUP7Ni1fRUrgIJwuL6s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzllLzQw/Lzc0LzllNDA3NGJi/ZTc4OTBjZDI0NWI1/MWI5ZmY1YzBlMzNj/LmpwZw"
+    },
+    {
+      "id": "6",
+      "name": "Lois",
+      "username": "Lois_G",
+      "email": "lois@familyguy.com",
+      "password": "lois",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/JBz14OTPDINREFgd_tPlLrofBbGdKEkNpAzoJiw9rkI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vYS9hNS9M/b2lzX0dyaWZmaW4u/cG5n"
+    },
+    {
+      "id": "7",
+      "name": "stewie",
+      "username": "stewie",
+      "email": "stewie@familyguy.com",
+      "password": "stewie",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/CJcg_Ly6mfp-nu3tKHIluAqkuRjAF6kIfTFSWTSaqDM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvc3Rl/d2llLWdyaWZmaW4t/ZG91YmxlLWd1bnMt/eHJicWJucjQ3anFm/b2Z2aS5qcGc"
+    },
+    {
+      "id": "8",
+      "name": "Megatron",
+      "username": "Meg",
+      "email": "meg@familyguy.com",
+      "password": "meg",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/Dl8vdXUjl-67HwMvbM8ZK8BQ1wXCOQwjoXPnH5eXJ8Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NhL2Nh/L2QyL2NhY2FkMjAx/NjVjYjE0NWNmMzAx/NzViNGQzNTYxZDM0/LmpwZw"
+    },
+    {
+      "id": "9",
+      "name": "Chris",
+      "username": "Chris",
+      "email": "chris@familyguy.com",
+      "password": "chris",
+      "profile_img": "https://imgs.search.brave.com/CGQ8-Su8DZ3ETGTCcR83KAUmoNRuEBfb1wKDm8gDxV8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZm94ZGNnLmNv/bS9kcHAtdXBsb2Fk/ZWQvaW1hZ2VzL2Ny/ZWRpdHMvMjcwNzY1/MDk0Njc5L2ZhbWls/eV9ndXlfc2V0aF9n/cmVlbl8yeC5qcGc_/Zml0PWluc2lkZXwq/OjI3OA"
+    },
+    {
+      "id": "10",
+      "name": "Bob",
+      "username": "bob_Sponge",
+      "email": "bob@spongebob.com",
+      "password": "bob",
+      "follower_count": 0,
+      "following_count": 0,
+      "profile_img": "https://imgs.search.brave.com/Tnce1fZ69me7cR125xYohvaTwF__0dzx4g1NYN04kC8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9uaWNr/LWludGwubXR2bmlt/YWdlcy5jb20vdXJp/L21naWQ6ZmlsZTpn/c3A6a2lkcy1hc3Nl/dHM6L25pY2svcHJv/cGVydGllcy9zcG9u/Z2Vib2Itc3F1YXJl/cGFudHMvY2hhcmFj/dGVycy9zcG9uZ2Vi/b2ItYWJvdXQtd2Vi/LWRlc2t0b3AuanBn/P3F1YWxpdHk9MC43/NSZoZWlnaHQ9NDYw/JndpZHRoPTQ2MCZt/YXR0ZT10cnVlJmNy/b3A9dHJ1ZQ"
+    },
+    {
+      "id": "60564",
+      "name": "Krabs",
+      "username": "mr_Krabs",
+      "email": "krabs@krabbypatty.com",
+      "password": "money",
+      "follower_count": 0,
+      "following_count": 3,
+      "profile_img": "https://imgs.search.brave.com/GbhTBKn5r-NdCr5xA5dTrSc5fBt4ggWvu_PZw-IEQSo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvbXIta3JhYnMt/ZWlzbmlrNmd2NXBm/NGJ6ei5qcGc"
+    },
+    {
+      "id": "8264",
+      "name": "Sandy",
+      "username": "S_cheeks",
+      "email": "sandy_cheeks@bikinibottom.com",
+      "password": "underwater",
+      "follower_count": 0,
+      "following_count": 3,
+      "profile_img": "https://imgs.search.brave.com/BqxCfEHEVDCkWKd0qKFxCUOY-ojiLovQ1Tfi5O0XTqU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvc2Fu/ZHktY2hlZWtzLXRo/ZS1icmlkZS1yOTM1/ZGtvZzRzcmkxdXFj/LmpwZw"
+    },
+    {
+      "id": "45758",
+      "name": "Handsome Squidward",
+      "username": "Squidwa_r",
+      "email": "squid@ward.com",
+      "password": "squid",
+      "profile_img": "https://imgs.search.brave.com/rCGeCHKkSE_s7ZwRS5VCQTKqCRaHgeLl4QYksqIjGws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zMTM1LzMxMzU3/MTUucG5n",
+      "bio": "Handsome Squidward"
+    },
+    {
+      "id": "4924",
+      "name": "Patrick",
+      "username": "pat_Star",
+      "email": "patrick@star.com",
+      "password": "star",
+      "profile_img": "https://imgs.search.brave.com/rCGeCHKkSE_s7ZwRS5VCQTKqCRaHgeLl4QYksqIjGws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zMTM1LzMxMzU3/MTUucG5n"
+    },
+    {
+      "id": "58531",
+      "name": "My Nmae",
+      "username": "name",
+      "email": "name@example.com",
+      "password": "hello",
+      "profile_img": "https://imgs.search.brave.com/rCGeCHKkSE_s7ZwRS5VCQTKqCRaHgeLl4QYksqIjGws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zMTM1LzMxMzU3/MTUucG5n"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": "1",
+      "video": "/static/media/video.43b5c187e360f5e677b3.mp4",
+      "description": "This is my description"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "video": "/static/media/video-2.9f5c47fe2e7f7af5061c.mp4",
+      "description": "This is a test 2"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "video": "/static/media/video-3.6a7f8354c2442d82d17a.mp4",
+      "description": "Playing with Sharks "
+    },
+    {
+      "id": "4",
+      "userId": "10",
+      "video": "/static/media/spongebob.218b034ff93a9ea4a337.mp4",
+      "description": "Good stuff"
+    },
+    {
+      "id": "5",
+      "userId": "8",
+      "video": "/static/media/video.43b5c187e360f5e677b3.mp4",
+      "description": "This is my description"
+    },
+    {
+      "id": "5456",
+      "userId": "4",
+      "video": "/static/media/lisa.7cad67bf26cbe787a37e.mp4",
+      "description": "This is my description"
+    }
+  ],
+  "likes": [
+    {
+      "id": "48072",
+      "userId": "1",
+      "postId": "3"
+    },
+    {
+      "id": "98248",
+      "userId": "1",
+      "postId": "2"
+    },
+    {
+      "id": "19295",
+      "userId": "58531",
+      "postId": "1"
+    },
+    {
+      "id": "7189",
+      "userId": "58531",
+      "postId": "2"
+    }
+  ],
+  "UserComments": [
+    {
+      "id": "1456",
+      "postId": "1",
+      "userId": "3",
+      "comment": "Amazing"
+    },
+    {
+      "id": "1",
+      "postId": "4",
+      "userId": "4",
+      "comment": "Amazing"
+    },
+    {
+      "id": "2",
+      "postId": "4",
+      "userId": "1",
+      "comment": "This is sick"
+    },
+    {
+      "id": "93123899",
+      "postId": "3",
+      "userId": "1",
+      "comment": "Be careful!!"
+    },
+    {
+      "id": "67537598",
+      "postId": "4",
+      "userId": "1",
+      "comment": "you look good"
+    },
+    {
+      "id": "2046648",
+      "postId": "5",
+      "userId": "1",
+      "comment": "what are you doing here meg"
+    },
+    {
+      "id": "34271716",
+      "postId": "1",
+      "userId": "2",
+      "comment": "what a beautifule view"
+    },
+    {
+      "id": "28797783",
+      "postId": "5",
+      "userId": "58531",
+      "comment": "Hello meg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "3200",
+      "userId": "1",
+      "postId": "5"
+    },
+    {
+      "id": "30301",
+      "userId": "1",
+      "postId": "3"
+    },
+    {
+      "id": "32585",
+      "userId": "58531",
+      "postId": "2"
+    },
+    {
+      "id": "885",
+      "userId": "58531",
+      "postId": "3"
+    },
+    {
+      "id": "84779",
+      "userId": "58531",
+      "postId": "4"
+    },
+    {
+      "id": "66736",
+      "userId": "58531",
+      "postId": "5"
+    }
+  ],
+  "UserFollowers": [
+    {
+      "id": "2",
+      "userId": "1",
+      "followerId": "3"
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "followerId": "4"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "followerId": "1"
+    },
+    {
+      "id": "36051",
+      "userId": "8264",
+      "followerId": "10"
+    },
+    {
+      "id": "32376",
+      "userId": "1",
+      "followerId": "2"
+    },
+    {
+      "id": "7296",
+      "userId": "2",
+      "followerId": "3"
+    },
+    {
+      "id": "678",
+      "userId": "3",
+      "followerId": "1"
+    },
+    {
+      "id": "6277",
+      "userId": "3",
+      "followerId": "2"
+    },
+    {
+      "id": "9454",
+      "userId": "58531",
+      "followerId": "1"
+    },
+    {
+      "id": "39719",
+      "userId": "58531",
+      "followerId": "2"
+    },
+    {
+      "id": "37052",
+      "userId": "58531",
+      "followerId": "3"
+    },
+    {
+      "id": "86081",
+      "userId": "58531",
+      "followerId": "10"
+    },
+    {
+      "id": "33504",
+      "userId": "58531",
+      "followerId": "8"
+    }
+  ]
+}

@@ -1,38 +1,134 @@
-.App {
-  text-align: center;
+:root {
+  font-family: sans-serif;
+
+  --pink:#FF004F;
+
+  box-sizing: border-box;
+}
+.fs-7{
+  font-size: 12px;
+}
+.bg-color {
+  background-color: #121212 !important;
+}
+form input[type="text"]::placeholder {
+  color: inherit;
+}
+body {
+  background-color: #121212 !important;
+}
+.h-100vh{
+  height: 100vh;
+
+}
+.nav-link{
+  color: #fff;
+}
+.nav-link.active{
+  color: var(--pink)
+  
+}
+.nav-link:hover{
+  color: inherit;
+  background: rgba(255,255,255,0.05) 
+}
+.nav-link.active:hover{
+  color: var(--pink)
+
+}
+.nav-icon {
+  width: 30px;
+}
+header{
+  z-index: 1;
+}
+.modal-post{
+  z-index: 2;
+}
+.user p {
+  font-size: 13px;
+  margin-bottom: -5px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.user small {
+  font-size: 11px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.sidebar footer a{
+text-decoration: none;
+}
+.sidebar footer a:hover{
+text-decoration: underline!important;
+}
+.video-container{
+  width: 340px;
+  height: 604px;
+}
+.controls-footer input{
+  flex: 3;
+}
+.controls-footer span{
+  flex: 1;
+}
+.video-duration-bar[type="range"]::-webkit-slider-runnable-track { 
+  height: 0.2rem;
+}
+ .video-controls {
+  bottom: 0;
+ }
+.video-duration-bar[type="range"]::-moz-range-track { 
+  height: 0.2rem;
+}
+.video-duration-bar[type="range"]::-webkit-slider-thumb {  
+  background-color: #ffffff; 
+  opacity: 0;
+  margin-top: -8px;
+}
+ 
+.video-duration-bar[type="range"]::-moz-range-thumb {  
+  background-color: #ffffff; 
+  opacity: 0;
+}
+.post-interections button{
+  background: rgba(255,255,255,0.1);
+  width: 45px;
+  font-size: 1.2rem;
+  height: 45px; 
+  border-color: transparent!important;
+}
+.post-interections button:hover{
+  background: rgba(255,255,255,0.2);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.for_you .post-content:hover .video-duration-bar[type="range"]::-webkit-slider-thumb{
+  opacity: 1;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+.profile .videos,
+.profile .favorites,
+.profile .liked{
+  grid-template-columns: repeat(6,1fr);
+} 
+.post-sm .post-content{
+  width: 169px;
+  height: 300px;
+}
+.post-sm .post-content video{
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.add-coment-textarea {
+  resize: none;
+  height: auto;
+}
+.comments{
+  height: 520px;
+}
+.search_page div.d-grid{
+  grid-template-columns: repeat(6,1fr); 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
